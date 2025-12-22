@@ -3,6 +3,8 @@ Data Warehouse and Analytics Project
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from Designing and implementing a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers: Data Architecture
 
@@ -31,7 +33,7 @@ Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 🛡️ License
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License]. You are free to use, modify, and share this project with proper attribution.
 
 🌟 About Me
 I am a BCA graduate with a strong foundation in SQL and T-SQL along with data warehousing concepts. I am currently designing and implementing a SQL Server–based data warehouse, with a focus on ETL development, data modeling, and query performance optimization. I am committed to building reliable, well-structured data solutions and continuously enhancing my technical expertise.
